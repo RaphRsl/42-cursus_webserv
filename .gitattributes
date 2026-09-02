@@ -1,4 +1,5 @@
+www/** linguist-vendored
 *.css linguist-vendored
 *.html linguist-vendored
 *.htm linguist-vendored
-www/** linguist-vendored
+*.js linguist-vendored
